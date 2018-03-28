@@ -1,2 +1,3 @@
 # hello-world
-Sample Project
+
+I am learing how Git Hub will work 
